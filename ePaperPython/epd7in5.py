@@ -24,6 +24,7 @@
  # THE SOFTWARE.
  #
 
+
 import epdif
 from PIL import Image
 import RPi.GPIO as GPIO
